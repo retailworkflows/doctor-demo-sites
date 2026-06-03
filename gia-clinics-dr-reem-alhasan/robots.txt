@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Sitemap: https://retailworkflows.github.io/doctor-demo-sites/gia-clinics-dr-reem-alhasan/sitemap-index.xml
