@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Sitemap: https://retailworkflows.github.io/doctor-demo-sites/molodost-smile-no-pain-dr-regina-markuseeva/sitemap-index.xml
