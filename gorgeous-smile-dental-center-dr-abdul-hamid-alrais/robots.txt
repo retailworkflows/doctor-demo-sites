@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Sitemap: https://retailworkflows.github.io/doctor-demo-sites/gorgeous-smile-dental-center-dr-abdul-hamid-alrais/sitemap-index.xml
