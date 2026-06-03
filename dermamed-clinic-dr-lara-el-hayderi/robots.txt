@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Sitemap: https://retailworkflows.github.io/doctor-demo-sites/dermamed-clinic-dr-lara-el-hayderi/sitemap-index.xml
